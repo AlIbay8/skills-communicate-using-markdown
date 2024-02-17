@@ -22,3 +22,8 @@ func get_player_template() -> Node:
 			break
 	return player_node
 ```
+
+## Legadot to-do list
+- [x] Debug imperfect loops caused by AudioServer latency
+- [ ] Finish text documentation
+- [ ] Make video tutorials
